@@ -1,0 +1,15 @@
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\bin\Debug\net6.0\GradeNumbersInLines.exe
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\bin\Debug\net6.0\GradeNumbersInLines.deps.json
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\bin\Debug\net6.0\GradeNumbersInLines.runtimeconfig.json
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\bin\Debug\net6.0\GradeNumbersInLines.dll
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\bin\Debug\net6.0\GradeNumbersInLines.pdb
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.csproj.AssemblyReference.cache
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.AssemblyInfoInputs.cache
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.AssemblyInfo.cs
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.csproj.CoreCompileInputs.cache
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.dll
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\refint\GradeNumbersInLines.dll
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.pdb
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\GradeNumbersInLines.genruntimeconfig.cache
+C:\Users\Заяц\Documents\Программирование\homework8\GradeNumbersInLines\obj\Debug\net6.0\ref\GradeNumbersInLines.dll
